@@ -1,6 +1,8 @@
 
 # Artella Maya Plugin Release Notes
 
+# v1.0.9
+
 # v1.0.6
 
 * Now get dependencies take into account UDIM paths (only Mari UDIM paths supported for now).

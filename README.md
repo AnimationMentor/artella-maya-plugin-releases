@@ -1,6 +1,8 @@
 
 # Artella Maya Plugin Release Notes
 
+# v1.0.11
+
 # v1.0.10
 
 # v1.0.9
